@@ -1,0 +1,6 @@
+[20/06/26, 11:38:15 PM] 1.5 Footiaa: requirements.txt
+[20/06/26, 11:38:35 PM] 1.5 Footiaa: streamlit
+openai
+pypdf2
+scikit-learn
+python-dotenv
